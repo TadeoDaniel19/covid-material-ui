@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react'
 import { Cards, CountryPicker, Chart } from './Components'
 import { fetchData } from './api/'
 import styles from './App.module.css'
-import image from './images/image.png'
+import image from './images/coronavairus.jpg'
 
 const App = () => {
 
